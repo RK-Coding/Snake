@@ -1,2 +1,2 @@
 # Snake
-Just a snake game source code (see video on mu channel)
+Just a snake game source code (see video on my channel)
